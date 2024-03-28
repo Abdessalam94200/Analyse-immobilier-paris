@@ -1,24 +1,24 @@
 # Analyse-immobilier-paris
 Analysez l’évolution des prix de l’immobilier a Paris
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Projet d'analyse du marché immobilier parisien</title>
+    <title>Paris Real Estate Market Analysis Project</title>
 </head>
 <body>
-    <h1>Introduction au projet d'analyse du marché immobilier parisien</h1>
+    <h1>Introduction to the Paris Real Estate Market Analysis Project</h1>
     <p>
-        Ce projet illustre une analyse détaillée du marché immobilier parisien, couvrant la période de 2017 à 2021. Mon objectif avec cette étude était de déchiffrer les tendances des prix, comprendre l’impact de la localisation et du type de bien sur le marché, et découvrir les relations cachées entre les diverses variables immobilières. Utilisant Python et des bibliothèques de data science telles que Pandas, Matplotlib et Seaborn, cette analyse sert de point de convergence entre la théorie statistique et les insights pratiques qui peuvent éclairer aussi bien les décisions des investisseurs individuels que les stratégies à grande échelle des entreprises immobilières.
+        This project presents a detailed analysis of the Parisian real estate market, covering the period from 2017 to 2021. My goal with this study was to decipher price trends, understand the impact of location and property type on the market, and uncover the hidden relationships among various real estate variables. Using Python and data science libraries such as Pandas, Matplotlib, and Seaborn, this analysis serves as a point of convergence between statistical theory and practical insights that can inform the decisions of individual investors as well as the large-scale strategies of real estate companies.
     </p>
     <p>
-        Le cœur du projet est basé sur la modélisation prédictive, où des techniques avancées telles que la régression linéaire et le clustering non supervisé ont été employées pour prédire la valorisation future des actifs immobiliers et pour classifier de manière efficace les biens selon leurs caractéristiques. Ces méthodes analytiques ne permettent pas seulement une estimation précise des valeurs immobilières mais ouvrent également la voie à une gestion plus rationnelle et stratégique des portefeuilles immobiliers.
+        The core of the project is based on predictive modeling, employing advanced techniques such as linear regression and unsupervised clustering to forecast the future valuation of real estate assets and to effectively classify properties according to their features. These analytical methods not only allow for an accurate estimation of property values but also pave the way for a more rational and strategic management of real estate portfolios.
     </p>
     <p>
-        En explorant ce dépôt, vous trouverez le notebook iPython détaillant chaque étape de l'analyse, de la préparation des données à la modélisation en passant par l'analyse exploratoire. Les visualisations créées offrent une vue perspicace des dynamiques complexes du marché immobilier parisien, révélant des tendances et des schémas qui ne sont pas immédiatement apparents à l'œil nu.
+        As you explore this repository, you will find the iPython notebook detailing each stage of the analysis, from data preparation to modeling and exploratory analysis. The visualizations created offer an insightful view of the complex dynamics of the Parisian real estate market, revealing trends and patterns that are not immediately apparent to the naked eye.
     </p>
     <p>
-        Je vous invite à parcourir mon code, à examiner les visualisations et à lire mes conclusions, qui j’espère, vous apporteront une nouvelle compréhension de l'immobilier parisien.
+        I invite you to browse through my code, review the visualizations, and read my conclusions, which I hope will provide you with a new understanding of the Parisian real estate landscape.
     </p>
 </body>
 </html>
